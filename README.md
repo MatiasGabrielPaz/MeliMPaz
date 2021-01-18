@@ -14,6 +14,5 @@ Ademas se agregaron las siguientes funcionalidades:
 -Encriptacion y split de password
 -Historico de archivos publicos en json
 -Historico de archivos publicos en csv
-
-El 
+-Verificacion de base de datos y tabla para su uso (En caso de no encontrarlas se crean automaticamente). Se recomienda utilizar las siguiente credenciales al momento de hacer la instalacion de Postgres. usuario:postgres y password:postgres
 
