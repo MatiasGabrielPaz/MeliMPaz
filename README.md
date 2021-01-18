@@ -9,9 +9,11 @@ Ademas, contiene un inventario histórico de todos los archivos que fueron en al
 
 Para utilizar la aplicacion solo se debera correr el archivo main.py
 Ademas se agregaron las siguientes funcionalidades:
--Logs
+-Logs \n
 -Tests unitarios de funcionalidades particulares
 -Encriptacion y split de password
 -Historico de archivos publicos en json
 -Historico de archivos publicos en csv
+
+El 
 
